@@ -1,0 +1,2 @@
+print("Hello World!")
+# print: è una FUNZIONE della libreria base di Python. Per usare le funzioni si scrive il nome della funzione seguito da parentesi () al cui interno inserrir. In questo caso usiamo la funzione print per stampare una stringa "literal"
